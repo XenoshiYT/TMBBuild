@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TMBBuild">
+    <output-path>$USER_HOME$/Documents/Development/Fertige Plugins</output-path>
+    <root id="archive" name="TMBBuild.jar">
+      <element id="module-output" name="TMBBuild" />
+    </root>
+  </artifact>
+</component>
